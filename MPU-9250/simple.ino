@@ -1,3 +1,4 @@
+//File for work with gyro
 #include "MPU9250.h"
 
 MPU9250 mpu;

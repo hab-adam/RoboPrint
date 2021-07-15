@@ -1,3 +1,4 @@
+//File for work with amperemetre
 int ampere;
 #define KEY 7
 void setup() {
