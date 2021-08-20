@@ -1,4 +1,5 @@
 //File for work with amperemetre
+//new pull
 int ampere;
 #define KEY 7
 void setup() {
