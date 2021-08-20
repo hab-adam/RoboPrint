@@ -1,4 +1,5 @@
 //File for work with amperemetre
+//new branch
 int ampere;
 #define KEY 7
 void setup() {
